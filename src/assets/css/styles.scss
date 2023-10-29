@@ -1,0 +1,14 @@
+// You have to put first the variables and then you can override them;
+//$today-highlight-bg: red;
+@import 'react-big-calendar/lib/sass/styles';
+
+html{
+  height: 100%;
+}
+body{
+  height: 100%;
+}
+
+#root{
+  height: 100%;
+}
